@@ -27,7 +27,7 @@ OBJやFBXといった様々なモデル形式を相互に変換することが�
 ### 使用例
 
 ```
-x2obj.exe -i ak47.x -o ak47.obj
+ModelConverter.exe -i ak47.x -o ak47.obj
 ```
 
 ## プログラム情報
